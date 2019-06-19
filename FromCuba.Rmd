@@ -5,3 +5,6 @@ date: "19 June 2019"
 output: html_document
 ---
 Hello EK, thanks for destroying my wife
+
+No worries - you sked me to ;) 
+Hope she's feeling OK today.....
