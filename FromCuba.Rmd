@@ -4,13 +4,12 @@ author: "RodneySecondAttenpt"
 date: "19 June 2019"
 output: html_document
 ---
-
-Fitness testing next Monday night! Let's do this!
 Hello EK, thanks for destroying my wife
 
+Dan told me that you make poeple fitter every day!
 
-No worries - you sked me to ;) 
-Hope she's feeling OK today..... 
+Guess we'll find out next week ;)
 
+Bring a good attitude and lots of energy!
 
-Dan told me that you make poepl fitter that day...
+Perhaps we should add everyone's stats to our website, add them as users/contributers (maybe with view-only - can we do that??) so that you can all compare your start and end results. Some people may not think that's a good idea though. Topic for discussion.
