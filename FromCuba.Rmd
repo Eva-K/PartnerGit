@@ -4,10 +4,10 @@ author: "RodneySecondAttenpt"
 date: "19 June 2019"
 output: html_document
 ---
-Hello EK, thanks for destroying my wife
+Hello EK, thanks for destroying my wife..anyhow that was nice!
 
 No worries - you sked me to ;) 
 Hope she's feeling OK today.....
 
 
-Dan told me that you make poepl fitter that day
+Dan told me that you make poepl fitter that day...
