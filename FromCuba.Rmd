@@ -4,10 +4,11 @@ author: "RodneySecondAttenpt"
 date: "19 June 2019"
 output: html_document
 ---
+Fitness testing next Monday night! Let's do this!
 Hello EK, thanks for destroying my wife
 
 No worries - you sked me to ;) 
-Hope she's feeling OK today.....
+Hope she's feeling OK today..... 
 
 
 Dan told me that you make poepl fitter that day
